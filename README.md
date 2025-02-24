@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- ⚙️ I'm a web & blockchain engineer running operations at [ProcessLabs](https://processlabs.io)
+- 🚀 In my spare time, I'm learning aerospace engineering & flight control systems
+- ⚡️ Also interested in robotics
+- 
 <!--
 **0x62/0x62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
