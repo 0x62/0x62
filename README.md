@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⚙️ I'm a web & blockchain engineer running operations at [ProcessLabs](https://processlabs.io)
+- ⚙️ I'm a web & blockchain engineer
 - 🚀 In my spare time, I'm learning aerospace engineering & flight control systems
 - ⚡️ Also interested in robotics
 <!--
